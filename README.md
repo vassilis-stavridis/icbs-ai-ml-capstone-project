@@ -1,10 +1,24 @@
-# icbs-ai-ml-capstone-project
-Imperial College Business School - Machine Learning and Artificial Intelligence Programme
+# PROJECT TITLE 
 
-As ML and AI continue to evolve, the ability to apply these technologies to solve real-world problems is a critical skill. In this capstone project, I build and optimise an ML model within a simulated black-box environment, which means I see how inputs produce outputs, but I don't have access to what's happening inside the model.
 
-In keeping with this black-box setup, and to reflect real-world scenarios, I also don't have access to the exact evaluation metrics during the capstone project. Instead, my focus is on making iterative, evidence-based improvements to my model's performance.
+## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
+100 words to explain what your project is about to a general audience. 
 
-The capstone project is structured into manageable components throughout the programme, with each step building towards my final submission. Along the way, I have access to resources, expert guidance and practical tools to support my work. 
+## DATA
+A summary of the data you’re using, remembering to include where you got it and any relevant citations. 
 
-On completion of this programme, the capstone project should evidence my ability to tackle complex ML challenges – something I can talk about in interviews or include in a professional portfolio.
+## MODEL 
+A summary of the model you’re using and why you chose it. 
+
+## HYPERPARAMETER OPTIMSATION
+Description of which hyperparameters you have and how you chose to optimise them. 
+
+## RESULTS
+A summary of your results and what you can learn from your model 
+
+You can include images of plots using the code below:
+![Screenshot](image.png)
+
+## (OPTIONAL: CONTACT DETAILS)
+If you are planning on making your github repo public you may wish to include some contact information such as a link to your twitter or an email address. 
+
